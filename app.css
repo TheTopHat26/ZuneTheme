@@ -168,6 +168,12 @@
   .mediaBarWrapper_f312bd{
     color: var(--main-color);
   }
+  :root .ready__61f2f {
+    display: none;
+  }
+  :root .ready__61f2f + .text__32559 {
+    top: 82px;
+  }
   
   :root .ready__61f2f + .text__32559::before {
     content: "";
@@ -177,7 +183,7 @@
     width: 200px;
     height: 200px;
     background: url("https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true") center/80% no-repeat;
-    animation: jump 1s infinite;
+    animation:  1s infinite;
   }
     .mediaBarGrabber_c64ff9 {
       position: absolute;
