@@ -6,4 +6,5 @@
 # Instalation
 
 ![vc](https://vencord.dev/assets/logo-nav-oneko-padding.png) Vencord: Click Settings --> Scroll Down till you see Themes --> Online Themes --> And paste in this link: ``https://raw.githubusercontent.com/TheTopHat26/ZuneTheme/main/Zune.theme.css``
+or just download the file and put it in your themes folder
 
