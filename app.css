@@ -168,18 +168,6 @@
   [class^=tipTitle] {
     --load-text: "Zune";
     }
-    /*Nukes the "did you know..." text*/
-  [class^=tipTitle] {
-    text-transform: none;
-    font-size: 0px;
-    font-weight: 800
-    }
-    /*Replaces it with a custom message*/
-    [class^=tipTitle]:after {
-    content: var(--load-text, "Zune theme, Made with love by TheTopHat");
-    font-size: 18px
-    }
-    /*Nukes the default animation*/
     [class^=ready] {
     scale: 0;
     }
@@ -188,5 +176,5 @@
     position: relative;
     display: inline-block;
     top: -200px;
-    zoom: 1;
+    zoom: 0.5;
     }
