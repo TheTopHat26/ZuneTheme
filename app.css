@@ -169,19 +169,16 @@
     color: var(--main-color);
   }
   
-    [class^=ready] {
-    scale: 0;
-    }
-    [class^=container]>[class^=content]:after {
-    content: url(https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true);
-    position: relative;
-    display: inline-block;
-    top: -500px;
-    zoom: 0.5;
-    }
-    /*
-    Githubs updates are a joke.
-    */
+  :root .ready__61f2f + .text__32559::before {
+    content: "";
+    position: absolute;
+    bottom: 100px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+    background: url("https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true") center/80% no-repeat;
+    animation: jump 1s infinite;
+  }
     .mediaBarGrabber_c64ff9 {
       position: absolute;
       top: 50%;
