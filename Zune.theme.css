@@ -19,10 +19,10 @@
 
 
 .theme-dark{
-    --background-primary: #090909;
+    --background-primary: #2f2f2f;
     --background-secondary: #666666;
     --background-secondary-alt: #2f2f2f;
     --background-secondary-alt-alt: #2f2f2f;
-    --background-tertiary: #666666;
+    --background-tertiary: #090909;
   
 }
