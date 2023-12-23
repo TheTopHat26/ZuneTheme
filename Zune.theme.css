@@ -209,7 +209,7 @@ datepicker .react-datepicker__day:hover {
   }
   /*Replaces the default gif with a shiggy*/
   [class^=container]>[class^=content]:after {
-  content: url(https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogo.png?raw=true);
+  content: url(https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true);
   position: relative;
   display: inline-block;
   top: -500px;
