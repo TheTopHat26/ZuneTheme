@@ -7,7 +7,22 @@
 **/
 
 
+:root {
+    --version: "0.0.1";
+  
+    
+    --main-color: #e77325;
+  
+    
+    --avatar-radius: 8px;
+  }
+
 
 .theme-dark{
-
+    --background-primary: #090909;
+    --background-secondary: #2f2f2f;
+    --background-secondary-alt: #2f2f2f;
+    --background-secondary-alt-alt: #2f2f2f;
+    --background-tertiary: #666666;
+  
 }
