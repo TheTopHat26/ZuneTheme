@@ -24,5 +24,10 @@
     --background-secondary-alt: #272626;
     --background-secondary-alt-alt: #272626;
     --background-tertiary: #090909;
-  
+    --deprecated-store-bg: var(--background-primary);
+    --background-floating: var(--background-secondary);
+    --background-mobile-primary: var(--background-primary);
+    --activity-card-background: var(--background-secondary);
+    --input-background: var(--background-secondary);
+    --modal-background: var(--background-primary);
 }
