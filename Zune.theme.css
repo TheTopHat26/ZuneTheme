@@ -207,11 +207,21 @@ datepicker .react-datepicker__day:hover {
   [class^=ready] {
   scale: 0;
   }
-  /*Replaces the default gif with a shiggy*/
+/*Nukes the "did you know..." text*/
+[class^=tipTitle] {
+text-transform: none;
+font-size: 0px;
+font-weight: 800
+}
+/*Replaces it with a custom message*/
+[class^=tipTitle]:after {
+content: var(--load-text, "Zune theme, Made with love by TheTopHat");
+font-size: 18px
+}
   [class^=container]>[class^=content]:after {
   content: url(https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true);
   position: relative;
   display: inline-block;
-  top: -1500px;
-  zoom: 0.5;
+  top: -500px;
+  zoom: 0;
   }
