@@ -165,9 +165,6 @@
     display: none;
   }
   
-  [class^=tipTitle] {
-    --load-text: "Zune";
-    }
     [class^=ready] {
     scale: 0;
     }
@@ -175,6 +172,6 @@
     content: url(https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true);
     position: relative;
     display: inline-block;
-    top: -200px;
+    top: -500px;
     zoom: 0.5;
     }
