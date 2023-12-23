@@ -3,9 +3,10 @@
 @author TheTopHat
 @description Bring back the beloved zune theme from windows XP back to Discord! 
 @version 0.0.1
+
 **/
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 :root {
     --version: "0.0.1";
   
@@ -14,8 +15,6 @@
   
     
     --avatar-radius: 8px;
-
-    --font-primary: "Roboto";
   }
 
 
@@ -191,6 +190,14 @@ datepicker .react-datepicker__day:hover {
 }
 :root .wrapperAudio__555ce .audioControls__9fbe9 .mediaBarWrapper_f312bd .mediaBarGrabber_c64ff9 {
   background: var(--main-color) !important;
+}
+
+.wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c {
+  background: url("https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogo.png?raw=true") no-repeat center !important;
+  background-size: cover !important;
+}
+.wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c svg {
+  display: none;
 }
 
 [class^=tipTitle] {
