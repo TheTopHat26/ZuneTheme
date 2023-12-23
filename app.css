@@ -183,7 +183,7 @@
     width: 200px;
     height: 200px;
     background: url("https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true") center/80% no-repeat;
-    animation:  1s infinite;
+    animation: jump 1s infinite;
   }
     .mediaBarGrabber_c64ff9 {
       position: absolute;
