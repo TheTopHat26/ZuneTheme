@@ -212,6 +212,6 @@ datepicker .react-datepicker__day:hover {
   content: url(https://github.com/TheTopHat26/ZuneTheme/blob/main/Assets/ZuneLogoLoad.png?raw=true);
   position: relative;
   display: inline-block;
-  top: -500px;
+  top: -1500px;
   zoom: 0.5;
   }
