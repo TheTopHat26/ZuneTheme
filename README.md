@@ -1,5 +1,5 @@
-# Discord Zune Theme
-![zune](https://github.com/TheTopHat26/ZuneTheme/assets/115375073/e7f71f9e-0b8e-42a1-aae6-bc281cfb6d9d)
+![zune](https://github.com/TheTopHat26/ZuneTheme/assets/115375073/e7f71f9e-0b8e-42a1-aae6-bc281cfb6d9d) # Discord Zune Theme
+
 
 **Bring back the beloved zune theme from windows XP back to discord!**
 
