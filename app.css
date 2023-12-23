@@ -164,6 +164,10 @@
   .wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c svg {
     display: none;
   }
+
+  .mediaBarGrabber_c64ff9:hover{
+    color: var(--main-color);
+  }
   
     [class^=ready] {
     scale: 0;
