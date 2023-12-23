@@ -165,7 +165,7 @@
     display: none;
   }
 
-  .mediaBarGrabber_c64ff9:hover{
+  .mediaBarWrapper_f312bd{
     color: var(--main-color);
   }
   
@@ -179,3 +179,5 @@
     top: -500px;
     zoom: 0.5;
     }
+
+  
