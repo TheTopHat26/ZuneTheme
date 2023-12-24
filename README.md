@@ -8,6 +8,7 @@
 ![zune](https://github.com/TheTopHat26/ZuneTheme/assets/115375073/e7f71f9e-0b8e-42a1-aae6-bc281cfb6d9d) **Discord Theme Edition**
 
 **Bring back the beloved zune theme from windows XP back to discord!**
+(Light Theme Semi Supported)
 
 # Preview Screenshot
 
