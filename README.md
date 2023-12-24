@@ -9,6 +9,10 @@
 
 **Bring back the beloved zune theme from windows XP back to discord!**
 
+# Preview Screenshot
+
+![Zune Widescreen](https://github.com/TheTopHat26/ZuneTheme/assets/115375073/b59220f5-fc27-4b3c-98f5-2e6107321636)
+
 # Instalation
 
 ![vc](https://vencord.dev/assets/logo-nav-oneko-padding.png) Vencord: Click Settings --> Scroll Down till you see Themes --> Online Themes --> And paste in this link: ``https://raw.githubusercontent.com/TheTopHat26/ZuneTheme/main/Zune.theme.css``
