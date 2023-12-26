@@ -205,3 +205,8 @@
       cursor: grab;
       color: var(--main-color)!important;
     }
+
+
+    .wrapper_f46140{
+      background-color: var(--main-color) !important;
+    }
