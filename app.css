@@ -207,7 +207,7 @@
     }
 
 
-    .wrapper_f46140 interactive{
+    .mention wrapper_f46140 interactive{
       background: var(--reply-colorth) !important;
       color: #fff;
       transition: var(--main-color) 50ms ease-out,color 50ms ease-out;
