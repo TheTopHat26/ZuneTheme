@@ -207,7 +207,10 @@
     }
 
 
-    .wrapper_f46140{
+    .wrapper_f46140 interactive{
       background: var(--reply-color) !important;
       color: #fff;
+      transition: background-color 50ms ease-out,color 50ms ease-out;
     }
+
+   
