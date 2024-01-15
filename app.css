@@ -207,10 +207,12 @@
     }
 
 
-    .wrapper_f46140{
-      /**TODO: Fix col change on hover*//
+    .wrapper_f46140 {
+      /**TODO: Fix col change on hover*/
       background: var(--reply-colorth)!important;
       color: #fff;
     }
 
-   
+   .text-xs-semibold_a3a2b4{
+    color: #fff;
+   }
