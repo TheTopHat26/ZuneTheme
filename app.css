@@ -207,10 +207,10 @@
     }
 
 
-    .mention wrapper_f46140 interactive{
-      background: var(--reply-colorth) !important;
+    .wrapper_f46140{
+      /**TODO: Fix col change on hover*//
+      background: var(--reply-colorth)!important;
       color: #fff;
-      transition: var(--main-color) 50ms ease-out,color 50ms ease-out;
     }
 
    
