@@ -10,9 +10,6 @@
 **Bring back the beloved zune theme from windows XP back to discord!**
 (Light Theme Semi Supported)
 
-# Preview Screenshot
-
-![Zune Widescreen](https://github.com/TheTopHat26/ZuneTheme/assets/115375073/b59220f5-fc27-4b3c-98f5-2e6107321636)
 
 # Instalation
 
